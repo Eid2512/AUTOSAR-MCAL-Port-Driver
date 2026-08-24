@@ -1,6 +1,6 @@
 ## Development Scope and Attribution
 
-This project was developed as part of an AUTOSAR training course instructed by **Mohamed Tarek**.
+This project was developed as part of an AUTOSAR training course instructed by **Eng. Mohamed Tarek**.
 
 The course provided the project structure, supporting modules, and Port Driver API prototypes as a starting template.
 
