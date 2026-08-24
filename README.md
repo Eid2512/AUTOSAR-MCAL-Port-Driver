@@ -131,6 +131,18 @@ The course provided the starter project structure and **Port Driver API prototyp
 
 The **DIO module** included in the repository was developed during the instructor-led portion of the course and is not presented as my individual implementation.
 
+## Build Environment
+
+The project was developed using Code Composer Studio for the
+TM4C123GH6PM platform.
+
+To inspect or build the project:
+
+1. Clone the repository.
+2. Import it as an existing CCS project.
+3. Select the TM4C123GH6PM target configuration.
+4. Build the project using Code Composer Studio.
+
 ## Purpose
 
 The project was developed to apply AUTOSAR Classic concepts through practical implementation of a configurable low-level MCAL driver and to strengthen understanding of hardware abstraction, configuration handling, register-level programming, and development-error detection.

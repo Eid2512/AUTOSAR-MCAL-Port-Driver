@@ -1,14 +1,17 @@
 
-/******************************************************************************
-*
-* Module: Port
-*
-* File Name: Port.c
-*
-* Description: Source file for TM4C123GH6PM Microcontroller - Port Driver.
-*
-* Author: Mohamed Tarek
-******************************************************************************/
+/*
+ * Module: Port
+ * File Name: Port.c
+ *
+ * Description:
+ * AUTOSAR MCAL Port Driver for TM4C123GH6PM.
+ *
+ * Starter template and API prototypes:
+ * Mohamed Tarek - AUTOSAR Course Instructor
+ *
+ * Port Driver implementation:
+ * Eid Elsayed
+ */
 
 #include "Port.h"
 #include "tm4c123gh6pm_registers.h"
